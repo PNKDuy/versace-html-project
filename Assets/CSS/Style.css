@@ -1,0 +1,89 @@
+.dropdown-item{
+    color: #fff;
+    font-size: 8pt;
+    font-family: 'Raleway', sans-serif;
+}
+.navbar-dark .navbar-nav .nav-link{
+    color: #fff;
+}
+.bg-black{
+    background: #000;
+}
+.bg-white{
+    background: #fff;
+}
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@300&display=swap');
+.text{
+    color: #fff;
+    font-size: 8pt;
+    font-family: 'Raleway', sans-serif;
+}
+.text1{
+    color: #fff;
+    font-size: 14pt;
+    font-family: 'Raleway', sans-serif;
+}
+.text2{
+    color: #fff;
+    font-size: 11pt;
+    font-family: 'Raleway', sans-serif;
+}
+.text3{
+    color: #fff;
+    font-size: 8pt;
+    font-family: 'Raleway', sans-serif;
+}
+body{
+    background: #000;
+}
+.bg-hinh{
+    background: url(/Assets/IMG/hp-holiday-2021-1-111121-desk.jpg);
+}
+.mt1{
+    margin-top: 356px;
+}
+.mt2{
+    margin-top: 50px;
+}
+#contact-us{
+    margin-top: 10%;
+    height: 100%;
+    width: 50%;
+}
+.col-md-4{
+    height: auto;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    border-radius: 1%;
+}
+.col-md-4>i{
+    font-size: x-large;
+    margin-bottom: 20%;
+}
+.col-md-4>h5{
+    margin-bottom: 40px;
+}
+.btn{
+    margin-top: 20px;
+}
+.col-md-12{
+    margin-top: 10%;
+}
+.col-md-12 > img{
+    margin-bottom: 5%;
+    margin-top: 5%;
+}
+.item {
+    width: 100%;
+    background-color: cadetblue;
+}
+/* #banner {
+    margin-bottom: 5%;
+} */
+.row{
+    margin-top: 5%;
+}
+#store{
+    padding-right: 5%;
+    padding-left: 5%
+}
